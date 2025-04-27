@@ -53,3 +53,7 @@ CodeCoverage/
 TestResult.xml
 nunit-*.xml
 /api/.vs
+/tdd/api/.vs
+/tdd/.vs/tdd/CopilotIndices
+/tdd/.vs
+/tdd/test/.vs
